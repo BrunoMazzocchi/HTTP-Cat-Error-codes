@@ -1,16 +1,11 @@
-# httpcaterror
+# HTTP Cat Error Codes
 
-I was bored and found a HTTP error cat API
+I was bored and I found https://http.cat/
+This is what happened in 2 hours.
 
-## Getting Started
+<h1 align="center">
 
-This project is a starting point for a Flutter application.
+<img src="https://user-images.githubusercontent.com/68037905/216801651-a0774cc4-f869-4219-945b-421ba5b69a18.png" width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/68037905/216801656-806ea657-b0d0-4570-98e9-4027d1c45112.png" width="200" height="400"/>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+</h1>
